@@ -1,0 +1,75 @@
+PODS:
+  - Bolts (1.8.4):
+    - Bolts/AppLinks (= 1.8.4)
+    - Bolts/Tasks (= 1.8.4)
+  - Bolts/AppLinks (1.8.4):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.8.4)
+  - Crashlytics (3.7.0):
+    - Fabric (~> 1.6.3)
+  - Fabric (1.6.7)
+  - FacebookImagePicker (2.0.9):
+    - FBSDKCoreKit (~> 4.8.0)
+    - FBSDKLoginKit (~> 4.8.0)
+    - SDWebImage (~> 3.7.2)
+  - FBSDKCoreKit (4.8.0):
+    - Bolts (~> 1.1)
+    - FBSDKCoreKit/arc (= 4.8.0)
+    - FBSDKCoreKit/no-arc (= 4.8.0)
+  - FBSDKCoreKit/arc (4.8.0):
+    - Bolts (~> 1.1)
+  - FBSDKCoreKit/no-arc (4.8.0):
+    - Bolts (~> 1.1)
+    - FBSDKCoreKit/arc
+  - FBSDKLoginKit (4.8.0):
+    - FBSDKCoreKit
+  - Firebase (2.5.1)
+  - KMPlaceholderTextView (1.2.0)
+  - Koloda (3.1.1):
+    - pop (~> 1.0)
+  - MARKRangeSlider (1.0.1)
+  - Parse (1.13.0):
+    - Bolts/Tasks (~> 1.6)
+  - ParseFacebookUtilsV4 (1.9.1):
+    - Bolts/Tasks (>= 1.5)
+    - FBSDKCoreKit (~> 4.8)
+    - FBSDKLoginKit (~> 4.8)
+    - Parse (~> 1.9)
+  - pop (1.0.9)
+  - SDWebImage (3.7.2):
+    - SDWebImage/Core (= 3.7.2)
+  - SDWebImage/Core (3.7.2)
+  - SVProgressHUD (2.0.3)
+
+DEPENDENCIES:
+  - Crashlytics (= 3.7.0)
+  - Fabric (= 1.6.7)
+  - FacebookImagePicker (= 2.0.9)
+  - Firebase (= 2.5.1)
+  - KMPlaceholderTextView (= 1.2.0)
+  - Koloda (= 3.1.1)
+  - MARKRangeSlider (= 1.0.1)
+  - Parse (= 1.13.0)
+  - ParseFacebookUtilsV4 (= 1.9.1)
+  - pop (= 1.0.9)
+  - SDWebImage (= 3.7.2)
+  - SVProgressHUD (= 2.0.3)
+
+SPEC CHECKSUMS:
+  Bolts: 8a7995239dbe724f9cba2248b766d48b7ebdd322
+  Crashlytics: c3a2333dea9e2733d2777f730910321fc9e25c0d
+  Fabric: caf7580c725e64db144f610ac65cd60956911dc7
+  FacebookImagePicker: b4a3ab14d6af5e39a28c9a5d53330cc160491d1e
+  FBSDKCoreKit: 66a935d17b6e00b6b64e604f2eb9b72c9ab7deb8
+  FBSDKLoginKit: d893fcbb98d854496925e9ff73c67b896982d3c4
+  Firebase: 3565ea88b830f28f2c77ecc524622bc71a20d085
+  KMPlaceholderTextView: cae8ee889bd38d20587eee6b2623b8218f31b8f5
+  Koloda: 782e61549cafec9fd69fc70c4a8b54bce997894d
+  MARKRangeSlider: dbf0878b03e921b52e4ef1e7766c1a8affb0c577
+  Parse: f51c24d2feb412e4b2d6cc73d37cb24e8d0089bc
+  ParseFacebookUtilsV4: eab9b4ade12f0800b4d30f6b808bca55ce17a0e9
+  pop: f667631a5108a2e60d9e8797c9b32ddaf2080bce
+  SDWebImage: 71b7cdc1d1721d6a82ed62889030225f2c249e29
+  SVProgressHUD: b0830714205bea1317ea1a2ebc71e5633af334d4
+
+COCOAPODS: 0.39.0

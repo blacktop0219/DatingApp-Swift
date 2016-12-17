@@ -1,0 +1,265 @@
+
+/* Class = "UILabel"; text = "Ethnicité"; ObjectID = "1ay-ak-iAX"; */
+"1ay-ak-iAX.text" = "Ethnicité";
+
+/* Class = "UILabel"; text = "Découvrir"; ObjectID = "1yl-IV-opS"; */
+"1yl-IV-opS.text" = "Découvrir";
+
+/* Class = "UILabel"; text = "Tranche d'âge"; ObjectID = "3qp-j1-1dP"; */
+"3qp-j1-1dP.text" = "Tranche d'âge";
+
+/* Class = "UILabel"; text = "20km"; ObjectID = "435-yA-MEq"; */
+"435-yA-MEq.text" = "20km";
+
+/* Class = "UILabel"; text = "Musique"; ObjectID = "4FP-jS-rKe"; */
+"4FP-jS-rKe.text" = "Musique";
+
+/* Class = "UIButton"; normalTitle = "Nous contacter"; ObjectID = "4ae-1z-cWg"; */
+"4ae-1z-cWg.normalTitle" = "Nous contacter";
+
+/* Class = "UIButton"; normalTitle = "Voir sa réponse"; ObjectID = "5l4-nl-5Tv"; */
+"5l4-nl-5Tv.normalTitle" = "Voir sa réponse";
+
+/* Class = "UILabel"; text = "CONTENU DE LA REPONSE"; ObjectID = "5sC-1o-RdK"; */
+"5sC-1o-RdK.text" = "CONTENU DE LA REPONSE";
+
+/* Class = "UILabel"; text = "Angelina"; ObjectID = "68i-6n-1DX"; */
+"68i-6n-1DX.text" = "Angelina";
+
+/* Class = "UILabel"; text = "XXXXXXXXXXXXX"; ObjectID = "6Jf-Ks-4UJ"; */
+"6Jf-Ks-4UJ.text" = "XXXXXXXXXXXXX";
+
+/* Class = "UILabel"; text = "XXXXXXXXXXXXX"; ObjectID = "6nd-tl-mr7"; */
+"6nd-tl-mr7.text" = "XXXXXXXXXXXXX";
+
+/* Class = "UIBarButtonItem"; title = "Envoyer"; ObjectID = "8VZ-Nb-OaG"; */
+"8VZ-Nb-OaG.title" = "Envoyer";
+
+/* Class = "UIBarButtonItem"; title = "Sauvegarder"; ObjectID = "8yK-vd-ZIC"; */
+"8yK-vd-ZIC.title" = "Sauvegarder";
+
+/* Class = "UIButton"; normalTitle = "Ouvrir Réglages"; ObjectID = "90S-LM-Zex"; */
+"90S-LM-Zex.normalTitle" = "Ouvrir Réglages";
+
+/* Class = "UILabel"; text = "J'ai un nouveau match"; ObjectID = "93F-Pu-iKr"; */
+"93F-Pu-iKr.text" = "J'ai un nouveau match";
+
+/* Class = "UILabel"; text = "STATUT DE LA REPONSE"; ObjectID = "9Bn-gS-J2m"; */
+"9Bn-gS-J2m.text" = "STATUT DE LA REPONSE";
+
+/* Class = "UIButton"; normalTitle = "Commencer à Blurver"; ObjectID = "AUD-i9-9q0"; */
+"AUD-i9-9q0.normalTitle" = "Commencer à Blurver";
+
+/* Class = "UILabel"; text = "Nouveaux Match"; ObjectID = "BKn-1n-nmb"; */
+"BKn-1n-nmb.text" = "Nouveaux Match";
+
+/* Class = "UILabel"; text = "Tu l'as fait!"; ObjectID = "Bw2-ae-RRZ"; */
+"Bw2-ae-RRZ.text" = "Tu l'as fait!";
+
+/* Class = "UILabel"; text = "Don't judge a book by its cover"; ObjectID = "Cns-kG-8Qe"; */
+"Cns-kG-8Qe.text" = "L'habit ne fait pas le moine";
+
+/* Class = "UIButton"; normalTitle = "Se connecter via Facebook"; ObjectID = "EKc-sJ-zvu"; */
+"EKc-sJ-zvu.normalTitle" = "Se connecter via Facebook";
+
+/* Class = "UIButton"; normalTitle = "Continuer à chercher"; ObjectID = "Eac-HA-P5e"; */
+"Eac-HA-P5e.normalTitle" = "Continuer à chercher";
+
+/* Class = "UIButton"; normalTitle = "Déconnexion"; ObjectID = "GQu-Ia-WaW"; */
+"GQu-Ia-WaW.normalTitle" = "Déconnexion";
+
+/* Class = "UILabel"; text = "Que recherchez-vous sur Blurv?"; ObjectID = "HPT-yg-92z"; */
+"HPT-yg-92z.text" = "Que recherchez-vous sur Blurv?";
+
+/* Class = "UIButton"; normalTitle = "Partager l'application"; ObjectID = "InB-vK-3JU"; */
+"InB-vK-3JU.normalTitle" = "Partager l'application";
+
+/* Class = "UILabel"; text = "Où êtes-vous?"; ObjectID = "J2v-FB-4v4"; */
+"J2v-FB-4v4.text" = "Où êtes-vous?";
+
+/* Class = "UIViewController"; title = "Accueil"; ObjectID = "JkC-SK-zXD"; */
+"JkC-SK-zXD.title" = "Accueil";
+
+/* Class = "UILabel"; text = "Discussion"; ObjectID = "JwN-IE-N4t"; */
+"JwN-IE-N4t.text" = "Discussion";
+
+/* Class = "UILabel"; text = "À propos de William"; ObjectID = "M3p-vZ-QQ7"; */
+"M3p-vZ-QQ7.text" = "Bio";
+
+/* Class = "UILabel"; text = "DESCRIPTION"; ObjectID = "MNj-CB-q5I"; */
+"MNj-CB-q5I.text" = "DESCRIPTION";
+
+/* Class = "UIBarButtonItem"; title = "Terminé"; ObjectID = "MbN-af-EX8"; */
+"MbN-af-EX8.title" = "Terminé";
+
+/* Class = "UILabel"; text = "Félicitations!"; ObjectID = "Mmc-hu-TvZ"; */
+"Mmc-hu-TvZ.text" = "Félicitations!";
+
+/* Class = "UILabel"; text = "Nouvelle réponse et photo"; ObjectID = "NGf-4V-KAf"; */
+"NGf-4V-KAf.text" = "Nouvelle réponse et photo";
+
+/* Class = "UILabel"; text = "À 3km"; ObjectID = "NJ9-c6-0le"; */
+"NJ9-c6-0le.text" = "À 3km";
+
+/* Class = "UILabel"; text = "Quote"; ObjectID = "OTF-Yv-gcg"; */
+"OTF-Yv-gcg.text" = "Citation";
+
+/* Class = "UILabel"; text = "Rappel pour une nouvelle question"; ObjectID = "Oc6-9D-dpM"; */
+"Oc6-9D-dpM.text" = "Rappel pour une nouvelle question";
+
+/* Class = "UILabel"; text = "Non, occupée par mon voyage en Europe"; ObjectID = "QGq-Xz-AEP"; */
+"QGq-Xz-AEP.text" = "Non, occupée par mon voyage en Europe";
+
+/* Class = "UILabel"; text = "NOM"; ObjectID = "RBg-Ml-1Sc"; */
+"RBg-Ml-1Sc.text" = "NOM";
+
+/* Class = "UIButton"; normalTitle = "Découverte"; ObjectID = "RPg-cX-4XR"; */
+"RPg-cX-4XR.normalTitle" = "Découverte";
+
+/* Class = "UIButton"; normalTitle = "Je suis prêt à discuter"; ObjectID = "RcC-Of-ze0"; */
+"RcC-Of-ze0.normalTitle" = "Je suis prêt à discuter";
+
+/* Class = "UILabel"; text = "Si vous laissez un champ vide, il n'apparaîtra pas sur votre profil."; ObjectID = "Tab-1h-svV"; */
+"Tab-1h-svV.text" = "Si un champ n'est pas rempli, il n'apparaîtra pas sur ton profil.";
+
+/* Class = "UIBarButtonItem"; title = "Modifier"; ObjectID = "VQn-Ag-qyT"; */
+"VQn-Ag-qyT.title" = "Modifier";
+
+/* Class = "UILabel"; text = "Sélectionner le sexe"; ObjectID = "VRk-yv-DxX"; */
+"VRk-yv-DxX.text" = "Sélectionner le sexe";
+
+/* Class = "UILabel"; text = "Enfants"; ObjectID = "WzR-7Q-oje"; */
+"WzR-7Q-oje.text" = "Enfants";
+
+/* Class = "UIButton"; normalTitle = "Réglages de l'application"; ObjectID = "X4m-Qv-bFU"; */
+"X4m-Qv-bFU.normalTitle" = "Réglages de l'application";
+
+/* Class = "UILabel"; text = "STATUT DE LA REPONSE"; ObjectID = "Xfm-7n-KxV"; */
+"Xfm-7n-KxV.text" = "STATUT DE LA REPONSE";
+
+/* Class = "UILabel"; text = "Blurv vous fait découvrir de nouvelles personnes autour de vous. Aimez ou passez chaque personne"; ObjectID = "YBA-MW-YCq"; */
+"YBA-MW-YCq.text" = "Blurv vous fait découvrir de nouvelles personnes autour de vous. Aimez ou passez chaque personne";
+
+/* Class = "UILabel"; text = "Voir le profil"; ObjectID = "YR2-T9-AGw"; */
+"YR2-T9-AGw.text" = "Voir le profil";
+
+/* Class = "UILabel"; text = "Angelina"; ObjectID = "Z7C-HZ-arz"; */
+"Z7C-HZ-arz.text" = "Angelina";
+
+/* Class = "UINavigationItem"; title = "Créez un profil"; ObjectID = "Znr-8V-K8T"; */
+"Znr-8V-K8T.title" = "Créez un profil";
+
+/* Class = "UILabel"; text = "Vous pouvez à présent discuter avec la belle Angelina!"; ObjectID = "a8M-hB-n2t"; */
+"a8M-hB-n2t.text" = "Vous pouvez à présent discuter avec la belle Angelina!";
+
+/* Class = "UILabel"; text = "STATUT"; ObjectID = "afP-YV-EVG"; */
+"afP-YV-EVG.text" = "STATUT";
+
+/* Class = "UIButton"; normalTitle = "Envoyer"; ObjectID = "arm-JL-LA3"; */
+"arm-JL-LA3.normalTitle" = "Envoyer";
+
+/* Class = "UILabel"; text = "Actif il y a 9 heures"; ObjectID = "b6y-vm-xNy"; */
+"b6y-vm-xNy.text" = "Actif il y a 9 heures";
+
+/* Class = "UILabel"; text = "Distance maximum"; ObjectID = "bJ7-wl-wpc"; */
+"bJ7-wl-wpc.text" = "Distance maximum";
+
+/* Class = "UILabel"; text = "Que pensez vous du marriage?"; ObjectID = "bMG-FR-VHf"; */
+"bMG-FR-VHf.text" = "Que pensez vous du marriage?";
+
+/* Class = "UILabel"; text = "CONTENU DE LA QUESTION"; ObjectID = "bMn-vC-fk9"; */
+"bMn-vC-fk9.text" = "CONTENU DE LA QUESTION";
+
+/* Class = "UILabel"; text = "Work"; ObjectID = "bVI-5m-79r"; */
+"bVI-5m-79r.text" = "Travail";
+
+/* Class = "UILabel"; text = "Angelina et vous êtes intéressés par vos profils respectifs"; ObjectID = "bbo-6u-Cfd"; */
+"bbo-6u-Cfd.text" = "Angelina et vous êtes intéréssés l'un par l'autre";
+
+/* Class = "UIButton"; normalTitle = "Changer les préferences de découverte"; ObjectID = "bs5-2q-SUJ"; */
+"bs5-2q-SUJ.normalTitle" = "Changer les préférences de découverte";
+
+/* Class = "UILabel"; text = "This is where your Blurvs will appear."; ObjectID = "cea-pk-coX"; */
+"cea-pk-coX.text" = "This is where your Blurvs will appear.";
+
+/* Class = "UILabel"; text = "Question préferée"; ObjectID = "est-OG-A3S"; */
+"est-OG-A3S.text" = "Question préférée";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "fTa-aO-Rey"; */
+"fTa-aO-Rey.text" = "5";
+
+/* Class = "UILabel"; text = "16-25"; ObjectID = "gGG-Cx-7Mx"; */
+"gGG-Cx-7Mx.text" = "16-25";
+
+/* Class = "UIButton"; normalTitle = "Proposer une question"; ObjectID = "gX3-ld-J2S"; */
+"gX3-ld-J2S.normalTitle" = "Proposer une question";
+
+/* Class = "UILabel"; text = "Afin de vous suggérer des matchs potentiels autour de vous, Blurv a besoin de savoir où vous êtes."; ObjectID = "gas-C3-z3d"; */
+"gas-C3-z3d.text" = "Afin de vous suggérer des matchs potentiels autour de vous, Blurv a besoin de savoir où vous êtes.";
+
+/* Class = "UILabel"; text = "Je reçois un nouveau message"; ObjectID = "hLR-D8-4CS"; */
+"hLR-D8-4CS.text" = "Je reçois un nouveau message";
+
+/* Class = "UINavigationItem"; title = "Angelina, 28"; ObjectID = "hXd-Gi-Og0"; */
+"hXd-Gi-Og0.title" = "Angelina, 28";
+
+/* Class = "UILabel"; text = "Education"; ObjectID = "iKM-Pa-8pZ"; */
+"iKM-Pa-8pZ.text" = "Éducation";
+
+/* Class = "UILabel"; text = "Enoyer une notification lorsque"; ObjectID = "iXb-d8-Isu"; */
+"iXb-d8-Isu.text" = "Enoyer une notification lorsque";
+
+/* Class = "UILabel"; text = "Sexe"; ObjectID = "iti-t3-BSy"; */
+"iti-t3-BSy.text" = "Sexe";
+
+/* Class = "UILabel"; text = "Il n'y a plus d'utilisateurs autour de vous."; ObjectID = "jaZ-c4-oVX"; */
+"jaZ-c4-oVX.text" = "Il n'y a plus d'utilisateurs autour de vous.";
+
+/* Class = "UIButton"; normalTitle = "Angelina, 28"; ObjectID = "ljB-io-PqA"; */
+"ljB-io-PqA.normalTitle" = "Angelina, 28";
+
+/* Class = "UILabel"; text = "NOM"; ObjectID = "mPN-Nz-usQ"; */
+"mPN-Nz-usQ.text" = "NOM";
+
+/* Class = "UILabel"; text = "Vous le méritez!"; ObjectID = "nk5-Eb-9VU"; */
+"nk5-Eb-9VU.text" = "Vous le méritez!";
+
+/* Class = "UINavigationItem"; title = "Réglages"; ObjectID = "oYz-eb-0VB"; */
+"oYz-eb-0VB.title" = "Réglages";
+
+/* Class = "UILabel"; text = "À 3km"; ObjectID = "ofJ-3H-IdB"; */
+"ofJ-3H-IdB.text" = "À 3km";
+
+/* Class = "UINavigationItem"; title = "Découverte"; ObjectID = "qLo-pq-aj8"; */
+"qLo-pq-aj8.title" = "Découverte";
+
+/* Class = "UIBarButtonItem"; title = "Suivant"; ObjectID = "qkS-5q-ZNm"; */
+"qkS-5q-ZNm.title" = "Suivant";
+
+/* Class = "UILabel"; text = "Femmes seulement"; ObjectID = "qni-S9-UPU"; */
+"qni-S9-UPU.text" = "Femmes seulement";
+
+/* Class = "UILabel"; text = "Voilà une nouvelle photo d'Angelina"; ObjectID = "rIr-Iw-2vT"; */
+"rIr-Iw-2vT.text" = "Voilà une nouvelle photo d'Angelina";
+
+/* Class = "UIViewController"; title = "Messages"; ObjectID = "tSp-fa-9Xu"; */
+"tSp-fa-9Xu.title" = "Messages";
+
+/* Class = "UINavigationItem"; title = "Question 1"; ObjectID = "tk4-oG-gtW"; */
+"tk4-oG-gtW.title" = "Question 1";
+
+/* Class = "UILabel"; text = "Actif il y a 9 heures"; ObjectID = "udy-6u-BqV"; */
+"udy-6u-BqV.text" = "Actif il y a 9 heures";
+
+/* Class = "UILabel"; text = "Allez dans Réglages > Confidentialité > Service de localisation et activez Blurv."; ObjectID = "uhi-ay-5tf"; */
+"uhi-ay-5tf.text" = "Allez dans Réglages > Confidentialité > Service de localisation et activez Blurv.";
+
+/* Class = "UILabel"; text = "TITRE"; ObjectID = "xKf-B4-WWO"; */
+"xKf-B4-WWO.text" = "TITRE";
+
+/* Class = "UILabel"; text = "HEURE"; ObjectID = "yDo-7K-OaX"; */
+"yDo-7K-OaX.text" = "HEURE";
+
+"g7d-fF-f9R.normalTitle" = "Conditions d'utilisation";
+"cRy-Ht-V9d.normalTitle" = "Confidentialité";
+"nFs-wI-sot.normalTitle" = "Securité";

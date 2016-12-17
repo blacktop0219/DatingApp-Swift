@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "MessagesController.GamesOrigin.getter:MessagesController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "GameManager">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MessagesController.viewDidLoad() -&gt; ():MessagesController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "games">
+            </PersistentString>
+            <PersistentString
+               value = "GamesOrigin">
+            </PersistentString>
+            <PersistentString
+               value = "GameManager">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MessagesController.FilterData() -&gt; ():MessagesController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "games">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

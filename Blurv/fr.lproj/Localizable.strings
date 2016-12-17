@@ -1,0 +1,372 @@
+
+"%@ answered" = "%@ a répondu";
+
+"Done" = "Terminé";
+
+/* No comment provided by engineer. */
+"%@ answered %@" = "%1$@ a répondu à la question %2$@";
+
+/* No comment provided by engineer. */
+"%@ away" = "à %@";
+
+/* No comment provided by engineer. */
+"%d common friends" = "%d amis en commun";
+
+/* No comment provided by engineer. */
+"%@ didn't answer yet" = "%@ n'a pas encore répondu";
+
+/* No comment provided by engineer. */
+"%@ has not answered yet" = "%@ n'a pas encore répondu";
+
+"You and %@ have to answer question %d before this picture is unblurred" = "Vous et %@ devez répondre à la question %d avant que cette photo ne soit révelée.";
+
+/* No comment provided by engineer. */
+"%@ has to answer %d before this picture is unblurred" = "%@ doit répondre à la question %d avant que cette photo ne soit révelée.";
+
+/* No comment provided by engineer. */
+"%@ is not ready to chat yet" = "%@ n'a pas encore initié la discussion";
+
+/* No comment provided by engineer. */
+"%@ is waiting for your answer" = "%@ attend votre réponse";
+
+/* No comment provided by engineer. */
+"%dkm" = "%dkm";
+
+/* No comment provided by engineer. */
+"%@km away" = "à %@km";
+
+/* No comment provided by engineer. */
+"1 common friend" = "1 ami en commun";
+
+/* No comment provided by engineer. */
+"A minimum of 3 pictures are required" = "Un minimum de 3 photos est requis";
+
+/* No comment provided by engineer. */
+"About %@" = "À propos de %@";
+
+/* female */
+"Active_Female" = "Active";
+
+/* male */
+"Active_Male" = "Actif";
+
+/* default adjective */
+"amazing" = "superbe";
+
+/* No comment provided by engineer. */
+"An error occured. Please try again later." = "Une erreur s'est produite. Veuillez réessayer plus tard.";
+
+/* No comment provided by engineer. */
+"answered %@" = "a répondu à %@";
+
+/* Chat cell description when game complete but user not yet ready to chat */
+"Are you ready to chat?" = "Êtes vous prêts à discuter?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to delete this game? %@ won't know you are out." = "Êtes vous sûr de vouloir supprimer cette partie? %@ ne saura pas que vous l'avez quittée.";
+
+/* No comment provided by engineer. */
+"Are you sure you want to report %@?" = "Êtes vous sûr de vouloir signaler %@?";
+
+/* No comment provided by engineer. */
+"Blurv shows you interesting people nearby. Anonymously like or pass each person" = "Blurv te fait découvrir des personnes intéressantes près de chez toi. Coup de cœur ou pas, fais le incognito.";
+
+/* No comment provided by engineer. */
+"Both" = "Tout le monde";
+
+/* No comment provided by engineer. */
+"Cancel" = "Annuler";
+
+/* No comment provided by engineer. */
+"Cannot send empty answer." = "La réponse ne peut pas être vide.";
+
+/* No comment provided by engineer. */
+"Change" = "Changer";
+
+/* notification banner title */
+"Chat unlocked" = "Chat débloqué";
+
+/* Share the app message body */
+"Check out Blurv on the Appstore!" = "Consultez Blurv sur l'AppStore!";
+
+/* Mailto: subject for Contact */
+"Contact" = "Contact";
+
+/* No comment provided by engineer. */
+"Could not delete this game..." = "Impossible de supprimer cette partie...";
+
+/* No comment provided by engineer. */
+"Could not log out" = "La déconnexion a échoué";
+
+/* No comment provided by engineer. */
+"Could not login." = "Impossible d'établir une connexion";
+
+/* No comment provided by engineer. */
+"Could not save discovery settings." = "La sauvegarde des préférences a échoué.";
+
+/* No comment provided by engineer. */
+"Could not save profile..." = "La sauvegarde du profil a échoué.";
+
+/* No comment provided by engineer. */
+"Could not save settings. Please try again later." = "Impossible de sauvegarder les réglages. Veuillez réessayer plus tard.";
+
+/* No comment provided by engineer. */
+"Could not send message..." = "L'envoi du message a échoué";
+
+/* No comment provided by engineer. */
+"Could not start chat..." = "Le lancement du chat a échoué";
+
+/* No comment provided by engineer. */
+"Create your profile" = "Créer votre profil";
+
+/* No comment provided by engineer. */
+"Delete" = "Supprimer";
+
+/* No comment provided by engineer. */
+"Edit your profile" = "Modifier votre profil";
+
+/* No comment provided by engineer. */
+"Error: Could not send answer..." = "L'envoi a échoué...";
+
+/* No comment provided by engineer. */
+"Everyone" = "Tout le monde";
+
+/* No comment provided by engineer. */
+"Female" = "Femme";
+
+/* No comment provided by engineer. */
+"Female only" = "Femmes seulement";
+
+/* No comment provided by engineer. */
+"Free chat with %@" = "Discussion libre avec %@";
+
+/* BLSwitch */
+"Free Chats" = "Discussions";
+
+/* No comment provided by engineer. */
+"Got it!" = "OK";
+
+"Dear Blurv Team,\n" = "Chère équipe de Blurv,\n";
+
+/* No comment provided by engineer. */
+"her" = "sa";
+
+/* No comment provided by engineer. */
+"Here is another picture of the %@ %@" = "Voilà une nouvelle photo de %2$@";
+
+/* No comment provided by engineer. */
+"his" = "sa";
+
+/* Mailto: body for Question Suggestion */
+"I'd like to suggest the following question:\n" = "Je souhaiterais proposer la question suivante:\n";
+
+/* No comment provided by engineer. */
+"If someone happens to like you back, the Blurv is on! Go through 3 questions, discover their answers, and unblur their pictures!" = "Si l’autre personne est aussi intéressée par toi, le Blurv commence! Réponds aux 3 questions, découvre ses réactions, et dévoile ses photos!";
+
+/* No comment provided by engineer. */
+"If you like each other, you can now chat!" = "Si vous êtes intéressés l’un par l’autre, vous pouvez maintenant discuter librement!";
+
+/* No comment provided by engineer. */
+"Male" = "Homme";
+
+/* No comment provided by engineer. */
+"Male only" = "Hommes seulement";
+
+/* No comment provided by engineer. */
+"Neither of you have answered yet" = "Aucun de vous n'a répondu";
+
+/* No comment provided by engineer. */
+"New picture and answer available" = "Nouvelle photo et réponse débloquées";
+
+/* No comment provided by engineer. */
+"Next" = "Suivant";
+
+/* No comment provided by engineer. */
+"Picking picture failed" = "La sélection de la photo a échoué";
+
+/* No comment provided by engineer. */
+"Please specify your gender" = "Veuillez spécifier votre sexe";
+
+/* No comment provided by engineer. */
+"Q %d" = "Q %d";
+
+/* No comment provided by engineer. */
+"Question %d" = "Question %d";
+
+/* Mailto: subject for Question Suggestion */
+"Question Suggestion" = "Proposition de Question";
+
+/* No comment provided by engineer. */
+"Reminder" = "Rappel";
+
+/* No comment provided by engineer. */
+"Report" = "Signaler";
+
+/* No comment provided by engineer. */
+"Report %@" = "Signaler %@";
+
+/* No comment provided by engineer. */
+"Save" = "Sauvegarder";
+
+/* No comment provided by engineer. */
+"See %@ answer" = "Voir %@ réponse";
+
+/* No comment provided by engineer. */
+"See %@'s profile" = "Voir le profil de %@";
+
+/* No comment provided by engineer. */
+"Unlock chat with previous questions" = "À débloquer en répondant aux questions";
+
+/* No comment provided by engineer. */
+"Unlock with previous questions" = "À débloquer en répondant aux questions";
+
+/* No comment provided by engineer. */
+"You" = "Vous";
+
+/* No comment provided by engineer. */
+"You and %@ answered" = "Vous et %@ avez répondu";
+
+/* No comment provided by engineer. */
+"You and %@ are interested in each other's profile" = "Vous et %@ êtes intéréssés l'un par l'autre";
+
+/* No comment provided by engineer. */
+"You and %@ have to answer question %@ before this picture is unblurred" = "Vous et %@ devez répondre à la question %d avant que cette photo ne soit révélée.";
+
+/* No comment provided by engineer. */
+"You answered" = "Vous avez répondu";
+
+/* No comment provided by engineer. */
+"You answered %@" = "Vous avez répondu %@";
+
+/* Chat cell description ready to chat */
+"You are ready to chat" = "Vous êtes prêts à discuter";
+
+/* No comment provided by engineer. */
+"You can always edit your profile in the settings." = "Vous pourrez toujours modifier votre profil dans les réglages.";
+
+/* No comment provided by engineer. */
+"You can now chat with %@" = "Vous pouvez à présent discuter librement avec %@";
+
+/* No comment provided by engineer. */
+"You can now chat with the %@ %@" = "Vous pouvez à présent discuter librement avec %2$@";
+
+/* default phrase for new_picture */
+"You deserve it!" = "Vous le méritez!";
+
+/* default phrase for chat_unlocked */
+"You did it!" = "Vous avez réussi!";
+
+/* No comment provided by engineer. */
+"You have already answered this question." = "Vous avez déjà répondu à cette question.";
+
+/* No comment provided by engineer. */
+"You have to answer question %d before this picture is unblurred" = "Vous devez répondre à la question %d avant que cette photo ne soit révelée";
+
+/* No comment provided by engineer. */
+"You must specify your gender" = "Vous devez spécifier votre sexe";
+
+/* TextView placeholder (chat controller) */
+"Type your message here..." = "Tapez votre message ici...";
+
+
+/* Profile text views placeholders */
+"profile_placeholder_about" = "Décris-toi, fais preuve d'imagination!";
+"profile_placeholder_lookingfor" = "L'amour, des amis, un partenaire coquin?";
+"profile_placeholder_question" = "Que demanderais-tu à un utilisateur?";
+"profile_placeholder_ethnicity" = "Donne un petit indice aux autres utilisateurs";
+"profile_placeholder_music" = "Quel style te donne des frissons?";
+"profile_placeholder_children" = "Est ce que tu en veux? En as-tu?";
+"profile_placeholder_quote" = "Quelle est ta citation préférée?";
+"profile_placeholder_work" = "Que fais tu dans la vie?";
+"profile_placeholder_education" = "Où as-tu étudié?";
+"profile_placeholder_language" = "Quelle langue parlez-vous?";
+
+"You don't have any Blurv yet, you will receive a notification when you get one!" = "Vous n'avez pas encore de Blurv, vous recevrez une notification quand ce sera le cas!";
+"This is where your free chats will appear" = "C’est ici que s’afficheront vos conversations ";
+"We will be reviewing your report shortly." = "Nous allons passer en revue votre signalement d'ici peu.";
+"Server error: could not report user. Please try again later." = "Erreur du serveur: impossible de signaler l'utilisateur. Veuillez réessayer plus tard.";
+
+"You" = "Vous";
+
+
+
+"tuto1" = "tuto1_fr";
+"tuto2" = "tuto2_fr";
+"tuto3" = "tuto3_fr";
+
+
+"question_reminder_alert_body" = "%@ attend votre réponse!";
+
+
+"Privacy Policy" = "Confidentialité";
+"Terms of Use" = "Conditions d'utilisation";
+"Safety" = "Sécurité";
+
+
+"Waiting for your answer" = "En attente de ta réponse";
+"You have both answered" = "Vous avez tous les deux répondu";
+"You and %@ have to answer all the questions before this picture is unblurred" = "%@ et vous devez répondre à toutes les questions avant de débloquer ces photos";
+"You answered question %d" = "Vous avez répondu à la question %d";
+
+"Your report has been sent." = "Votre signalement a été envoyé.";
+
+"You are both ready to chat" = "Vous êtes tous les deux prêts a discuter";
+
+"No messages yet" = "Pas encore de messages";
+
+"Unmatch %@" = "Unmatcher %@";
+"Are you sure you want to unmatch %@? You will no longer be able to contact each other." = "Es-tu sûr de vouloir unmatcher %@? Vous ne pourrez plus vous contacter.";
+"Unmatch" = "Unmatcher";
+
+"You have to match with %@ before you can see their pictures." = "Tu dois matcher avec %@ avant de pouvoir voir ses photos.";
+
+"New Message" = "Nouveau Message";
+
+// NOTIFICATIONS
+
+"notification_key_new_match_male" = "Félicitations! Tu as un nouveau match!";
+
+"notification_key_new_answer_male" = "%@ a répondu à la question %@!";
+"notification_key_new_picture_male" = "Une nouvelle photo de %@ est disponible!";
+"notification_key_last_picture_male" = "Une nouvelle photo de %@ est disponible! Es-tu prêt à discuter?";    ///// DISTINCTION HOMME/FEMME ==> RECEIVER
+
+"notification_key_chat_ready_male" = "%@ est prêt à discuter, l'es-tu aussi?";    ///// DISTINCTION HOMME/FEMME ====> SENDER
+"notification_key_chat_unlocked_male" = "Félicitations! Tu peux à présent discuter avec %@!";
+
+"notification_key_new_message_male" = "%@ vous a envoyé un nouveau message.";
+
+
+
+"notification_key_new_match_female" = "Félicitations! Vous avez un nouveau match!";
+
+"notification_key_new_answer_female" = "%@ a répondu à la question %@!";
+"notification_key_new_picture_female" = "Une nouvelle photo de %@ est disponible!";
+"notification_key_last_picture_female" = "Une nouvelle photo de %@ est disponible! Es-tu prête à discuter?";
+
+"notification_key_chat_ready_female" = "%@ est prête à discuter, l'es-tu aussi?";
+"notification_key_chat_unlocked_female" = "Félicitations! Tu peux à présent discuter avec %@!";
+
+"notification_key_new_message_female" = "%@ vous a envoyé un nouveau message.";
+
+
+
+"Congratulations!" = "Félicitations!";
+"You have a new match!" = "Tu as un nouveau match!";
+
+
+
+"error" = "Erreur";
+"email_not_supported" = "Cet appareil ne supporte pas l'envoi d'email depuis une application tierce. Veuillez proposer votre question à Hello@godowntochat.com";
+"dismiss" = "Fermer";
+
+
+"Could not unmatch. Please try again later." = "Impossible d'unmatcher. Veuillez réessayer plus tard.";
+
+
+
+"AccountLocked_title" = "Compte inactivé";
+"AccountLocked_message" = "Votre compte a été inactivé car plusieurs personnes ont signalé votre profil. Contactez-nous pour régulariser cette situation.";
+"Contact Us" = "Contactez-nous";
+"Account Recovery" = "Récupération de compte bloqué";
+"AccountRecoveryEmailBody" = "Bonjour,\nMon compte a été bloqué à cause de signalements, comment puis-je le récupérer? Mon numéro d’utilisateur est le %@.\nMerci.";
+

@@ -1,0 +1,6 @@
+framework module FacebookImagePicker {
+  umbrella header "FacebookImagePicker-umbrella.h"
+
+  export *
+  module * { export * }
+}
